@@ -257,7 +257,7 @@ class InfoCommands(commands.Cog):
 
 
 
-            embed.set_footer(text="DEVELOPED BY SUMON X!TER")
+            embed.set_footer(text="DEVELOPED BY CYBER X!TER")
             await ctx.send(embed=embed)
 
             if region and uid:
