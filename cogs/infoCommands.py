@@ -181,7 +181,7 @@ class InfoCommands(commands.Cog):
             # 🔗 JOIN link উপরে
             embed.add_field(
                 name="",
-                value="🔗 **JOIN : [JOIN NOW](https://discord.gg/Ugaua38XDZ)**",
+                value="🔗 **JOIN : [JOIN NOW](https://discord.gg/QumjYSreDb)**",
                 inline=False
             )
 
@@ -246,7 +246,7 @@ class InfoCommands(commands.Cog):
 
             # profile card শেষে
             embed.set_image(url=f"https://profile2.thug4ff.com/api/profile_card?uid={uid}")
-            embed.set_footer(text="🔗 DEVELOPED BY CYBER X!TER")
+            embed.set_footer(text="🔗 DEVELOPED BY XITERZ ENGINE")
             await ctx.send(embed=embed)
 
             # ---- Outfit Image ----
