@@ -246,7 +246,7 @@ class InfoCommands(commands.Cog):
 
             # profile card শেষে
             embed.set_image(url=f"https://profile2.thug4ff.com/api/profile_card?uid={uid}")
-            embed.set_footer(text="🔗 DEVELOPED BY SIGMA CHEAT")
+            embed.set_footer(text="🔗 DEVELOPED BY CYBER X!TER")
             await ctx.send(embed=embed)
 
             # ---- Outfit Image ----
